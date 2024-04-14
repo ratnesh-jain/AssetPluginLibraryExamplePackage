@@ -1,0 +1,15 @@
+{
+  "originHash" : "87da8b4204889c28a8daaae15f6f7a0ead5c9a01c21c2d83c96bc84f44df3468",
+  "pins" : [
+    {
+      "identity" : "assetpluginlibrary",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ratnesh-jain/AssetPluginLibrary",
+      "state" : {
+        "revision" : "2299c1369aef7063d7642289cc9a1efe9d787c3c",
+        "version" : "0.0.2"
+      }
+    }
+  ],
+  "version" : 3
+}
