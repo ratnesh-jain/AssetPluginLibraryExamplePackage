@@ -1,0 +1,1 @@
+An exmple package for using [AssetPluginLibrary](https://github.com/ratnesh-jain/assetpluginlibrary) when organizing Xcode's asset catelogue inside Swift package manager's module/targets for modularization.
